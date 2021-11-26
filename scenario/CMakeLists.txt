@@ -138,6 +138,7 @@ if(NOT IGNITION_DISTRIBUTION)
 
     include(FindIgnitionDistribution)
     set(SUPPORTED_IGNITION_DISTRIBUTIONS
+        "Garden"
         "Fortress"
         "Edifice"
         "Dome"
